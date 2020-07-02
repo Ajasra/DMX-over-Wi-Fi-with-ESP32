@@ -19,8 +19,8 @@ DMXESPSerial dmx;
 
 OscWiFi osc;
 
-const char* ssid = "Sokaris 2.4";
-const char* pwd = "sirakos2018";
+const char* ssid = "";
+const char* pwd = "";
 const IPAddress ip(192, 168, 2, 198);
 const IPAddress gateway(192, 168, 2, 1);
 const IPAddress subnet(255, 255, 255, 0);
